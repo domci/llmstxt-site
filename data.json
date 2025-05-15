@@ -1588,5 +1588,11 @@
         "website": "https://yoast.com/",
         "llms-full-txt": "",
         "llms-txt": "https://yoast.com/llms.txt"
+    },
+    {
+    "product": "Quest-Hero",
+    "website": "https://quest-hero.de/",
+    "llms-full-txt": "https://quest-hero.de/llms-full.txt",
+    "llms-txt": "https://quest-hero.de/llms.txt"
     }
 ]
